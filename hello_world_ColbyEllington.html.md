@@ -4,7 +4,7 @@
 
  <head>
 
-  <tittle>Hello World</title>
+  <title>Hello World</title>
 
  </head>
 
